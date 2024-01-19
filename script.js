@@ -1,0 +1,1 @@
+alert("Esta página sigue en desarrollo. Estamos trabajando para mejorarla y ofrecerte la mejor experiencia posible. ¡Gracias por tu paciencia")
