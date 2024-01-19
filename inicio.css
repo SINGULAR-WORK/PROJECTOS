@@ -1,0 +1,58 @@
+body{
+  margin: 0;
+  padding: 0;
+  
+  background-color: black;
+}
+
+header{
+  background-color: white;
+  height: 45px;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header h2{
+  color: black;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 22px;
+}
+
+header i {
+ position: absolute;
+  margin-left: -150px;
+}
+
+main{
+
+ color: white;
+ text-align: center;
+ font-family: 'Playfair Display', serif;
+ font-size: 14px;
+}
+
+main h3{
+  margin-top: 120px;
+}
+
+main h6{
+  margin-top: -10px;
+}
+
+main img{
+  width: 30%;
+  margin-top: 20px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #f8f8f8; 
+  text-align: center; 
+  padding: 10px; 
+  
+  font-size: 7px;
+}
