@@ -1,1 +1,8 @@
-alert("Esta página sigue en desarrollo. Estamos trabajando para mejorarla y ofrecerte la mejor experiencia posible. ¡Gracias por tu paciencia")
+// alerta emergente 
+function cerrarMensaje() {
+    var alerta = document.querySelector('.alert');
+    var aler = document.getElementById('alert');
+        aler.classList.add('cerraral');
+  
+}
+// -----------//
